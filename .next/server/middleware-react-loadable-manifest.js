@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={"..\\node_modules\\@web3-react\\walletconnect-v2\\node_modules\\@walletconnect\\ethereum-provider\\dist\\index.es.js -> @web3modal/standalone":{id:36648,files:["static/chunks/648.07ebf822636ba63c.js"]},"..\\node_modules\\@web3modal\\standalone\\dist\\index.js -> @web3modal/ui":{id:144,files:["static/chunks/144.01986388687d20e5.js"]}};
+self.__REACT_LOADABLE_MANIFEST={}
